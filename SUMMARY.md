@@ -1,3 +1,0 @@
-# Summary
-
-* [ShadowDash](ShadowDash.html)
